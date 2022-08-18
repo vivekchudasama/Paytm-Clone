@@ -7,7 +7,7 @@
 I've been Working on this assigments that has been given by our mentor [Hitesh Choudhary](https://github.com/hiteshchoudhary) It's a Clone Project Using Tailwind CSS</b><br>
 
 ## Old Features 
-    - In Old Website(Current Paytm Live Website), They haven't use sticky hader.
+    - They haven't used a sticky Header in Old Website(Current Paytm Live Website).
     - In their website anyone can copy their photos and assets of sits.
     - also, their website wasn't responsive to any device
   
